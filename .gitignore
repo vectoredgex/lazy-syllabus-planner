@@ -1,0 +1,20 @@
+__pycache__/
+.planner_cache.json
+syllabi/
+my_syllabi/
+tmp_*/
+# generated output
+plan.md
+morning.txt
+done.txt
+deadlines.ics
+deadlines.json
+deadlines_run1.json
+# one-off patch scripts used during development
+apply_update*.py
+pairs*.py
+POST_DRAFT.md
+# notes and drafts, not part of the repo
+PLAN.md
+POST.md
+gemma_out/

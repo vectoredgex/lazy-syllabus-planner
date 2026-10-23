@@ -1,0 +1,32 @@
+{
+  "_note": "Deadlines a careful human would put in their calendar. 'optional' ones are fine either way.",
+  "BIO101_syllabus.pdf": [
+    {"due": "2026-10-22", "what": "Lab 4 report"},
+    {"due": "2026-10-29", "what": "Quiz 3"},
+    {"due": "2026-11-05", "what": "Midterm exam"},
+    {"due": "2026-11-12", "what": "Problem Set 5"},
+    {"due": "2026-11-19", "what": "Research poster draft"},
+    {"due": "2026-12-03", "what": "Research poster final"},
+    {"due": "2026-12-10", "what": "Final exam"},
+    {"due": "2026-10-13", "what": "Reading Ch. 9", "optional": true}
+  ],
+  "ENG210_syllabus.pdf": [
+    {"due": "2026-10-26", "what": "Essay 2 proposal"},
+    {"due": "2026-11-09", "what": "Essay 2 full draft"},
+    {"due": "2026-11-20", "what": "Essay 2 final"},
+    {"due": "2026-12-02", "what": "Group presentation"},
+    {"due": "2026-12-14", "what": "Final portfolio"},
+    {"due": "2026-09-25", "what": "Essay 1", "optional": true}
+  ],
+  "MATH152_syllabus.pdf": [
+    {"due": "2026-10-23", "what": "HW 7"},
+    {"due": "2026-10-30", "what": "HW 8"},
+    {"due": "2026-11-06", "what": "HW 9"},
+    {"due": "2026-11-20", "what": "HW 10"},
+    {"due": "2026-10-29", "what": "Quiz 5"},
+    {"due": "2026-11-12", "what": "Quiz 6"},
+    {"due": "2026-11-17", "what": "Exam 2"},
+    {"due": "2026-12-15", "what": "Final exam"},
+    {"due": "2026-09-29", "what": "Exam 1", "optional": true}
+  ]
+}
